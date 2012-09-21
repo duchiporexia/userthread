@@ -1,4 +1,4 @@
 userthread
 ==========
 
-This project is based on libtask. It extends libtask with auto-switching the userthread . 
+This project is based on ucontext.h. It extends it with auto-switching the userthread . 
